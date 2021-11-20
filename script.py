@@ -6,7 +6,7 @@ I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
 
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
-𝗜𝗙 𝗙𝗢𝗨𝗡𝗗 𝗔𝗡𝗬 𝗕𝗨𝗚𝗦, 𝗥𝗘𝗣𝗢𝗥𝗧𝗦 @KOT_REPORTS !
+𝗜𝗙 𝗙𝗢𝗨𝗡𝗗 𝗔𝗡𝗬 𝗕𝗨𝗚𝗦, 𝗥𝗘𝗣𝗢𝗥𝗧𝗦 @KOT_REPORS !
 
 𝗖𝗟𝗜𝗖𝗞 <i>/help</i> for more details....</b>"""
 
@@ -21,7 +21,7 @@ Please send me any Zee5 link, I can upload it to telegram as File/Video.
 NOTE: Download may take some time! So please wait for it to complete!"""
 
 
-    ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
+    ABOUT_TEXT = """⭕️<b>My Name : KOT Zee5 DL</b>
 
 ⭕️<b>Creater :</b> @KOT_FREE_DE_LA_HOYA_OFF
 
